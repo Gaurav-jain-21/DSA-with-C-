@@ -62,4 +62,31 @@ int main() {
         cout<<endl;
     }
 
+    cout<<"enter the number ";
+    int f;
+    cin>>f;
+    for (int i=1;i<=f; i++) {
+        for (int j=1;j<=f-i;j++) {
+            cout<<" ";
+        }
+        for (int k=1; k<=i; k++) {
+            cout<<"*";
+        }
+        for (int l=1; l<=i-1;l++) {
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+
+    for (int i=1; i<=f;i++) {
+        for (int j=1; j<=i-1; j++) {
+            cout<<" ";
+        }
+        for (int k=1; k<=2*(f-i+1)-1; k++) {
+            cout<<"*";
+        }
+        cout<<endl;
+
+    }
+
 }
