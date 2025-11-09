@@ -32,4 +32,15 @@ int main() {
         }
         cout<<endl;
     }
+    cout<<"Enter the number to make a patten "<<endl;
+    int d; cin>>d;
+    for (int i=1; i<=d; i++) {
+        int count = i;
+        for (int j= 1; j<= i ; j++) {
+            cout<<count;
+            count--;
+
+        }
+        cout<<endl;
+    }
 }
