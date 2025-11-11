@@ -41,6 +41,19 @@ int main() {
     else {
         cout<<"yes";
     }
-
+    cout<<endl;
+    cout<<"Subtract the product and sum of Digits of an integer "<<endl;
+    cout<<"enter the number ";
+    int num;
+    cin>>num;
+    int sum1=0;
+    int mul1=1;
+    while (num!=0) {
+        int digit = num%10;
+        mul1=mul1* digit;
+        sum1=sum1+ digit;
+        num=num/10;
+    }
+    cout<<mul1-sum1;
 
 }
