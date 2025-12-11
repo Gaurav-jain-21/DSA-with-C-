@@ -17,12 +17,25 @@ int getMax(int num[], int size) {
     }
     return max;
 }
+bool search(int arr[] ,int size,int key) {
+    for (int i =0; i<size; i++) {
+        if (arr[i]==key) {
+            return true;
+        }
+    }
+    return false;
+}
 int main() {
     int size;
     cin>>size;
     int num[size];
-    for (int i=0; i<size;i++) {D
+    for (int i=0; i<size;i++) {
         cin>>num[i];
     }
-    cout<<"max value is "<<getMax(num,size)<<endl;
+    int key;
+
+    cout<<"enter the keyy "<< endl;
+    cin>>key;
+    cout<<"result"<<" "<<search(num,size,key)<<endl;
+    // cout<<"max value is "<<getMax(num,size)<<endl;
 }
