@@ -51,7 +51,37 @@ vector<int> interception(int arr1[], int arr2[], int m, int n) {
     }
     return ans;
 }
+vector<vector<int>> pair_sum(int arr[] , int size,int s) {
+    vector<vector<int>> ans;
+    for (int i=0; i<size; i++) {
+        for (int j= i+1; j<size; j++) {
+            if (arr[i]+arr[j]==s) {
+                vector<int> temp;
+                temp.push_back(min(arr[i],arr[j]));
+                temp.push_back(max(arr[i], arr[j]));
+                ans.push_back(temp);
 
+            }
+        }
+    }
+
+    return ans;
+}
+void sortOne(int arr[], int n) {
+    int i=0;
+    int j=n-1;
+    while (i<j) {
+        while (arr[i]== 0) {
+            i++;
+        }
+        while (arr[j]==1) {
+            j--;
+        }
+        swap(arr[i],arr[j]);
+        i++;
+        j--;
+    }
+}
 
 int main() {
     cout <<"enter the size of an array "<<endl;
@@ -63,5 +93,5 @@ int main() {
     }
     // swap_alternate(arr,size);
     // printArray(arr, size);
-    cout<<"the unique number from the array is "<<uniqueNumber(arr, size);
+    // cout<<"the unique number from the array is "<<uniqueNumber(arr, size);
 }
