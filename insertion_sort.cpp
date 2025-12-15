@@ -23,5 +23,7 @@ void insertionSort(int arr[],int size) {
     }
 }
 int main() {
-    cout<<"hello world"<<endl;
+    int arr[5]={4,7,2,9,5};
+    insertionSort(arr,5);
+    printArray(arr,5);
 }
