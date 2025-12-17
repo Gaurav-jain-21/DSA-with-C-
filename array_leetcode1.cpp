@@ -14,11 +14,20 @@ void reverse_array(int arr[] ,int size) {
         s++;
         end--;
     }
-
+}
+//reverse array after any index value
+void revers_Inde(int arr[], int size, int index) {
+    int s=index;
+    int end= size-1;
+    while (s<end) {
+        swap(arr[s], arr[end]);
+        s++;
+        end--;
+    }
 }
 int main() {
     int arr[6]={1,2,3,4,5,6};
-    reverse_array(arr,6);
+    revers_Inde(arr,6,3);
     printArray(arr,6);
 
 
