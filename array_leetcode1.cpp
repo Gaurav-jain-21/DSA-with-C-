@@ -25,10 +25,47 @@ void revers_Inde(int arr[], int size, int index) {
         end--;
     }
 }
+//Merge sorted array
+void merge(int arr1[], int n, int arr2[], int m,int arr3[]) {
+    int i=0, j=0;
+    int k=0;
+    while (i<n&& j<m) {
+        if (arr1[i]<arr2[j]) {
+            arr3[k]=arr1[i];
+            i++;
+            k++;
+        }
+        else {
+            arr3[k]=arr2[j];
+            j++;
+            k++;
+        }
+    }
+    while (i<n) {
+        arr3[k]=arr1[i];
+        k++;
+        i++;
+    }
+    while (j<m) {
+        arr3[k]=arr2[j];
+        k++;
+        j++;
+    }
+}
+//Move Zeros
+void move_zero(int arr[], int s) {
+    int i=0;
+    for (int j= 0; j<s; j++) {
+        if (arr[j]!=0) {
+            swap(arr[j], arr[i]);
+            i++;
+        }
+    }
+}
 int main() {
-    int arr[6]={1,2,3,4,5,6};
-    revers_Inde(arr,6,3);
-    printArray(arr,6);
+    int arr[5]={2,0,7,1,0};
+    move_zero(arr,5);
+    printArray(arr,5);
 
 
 }
