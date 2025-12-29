@@ -14,4 +14,12 @@ int main() {
     cout<<"size of integer is : "<<sizeof(num)<<endl;
     cout<<"size of pointer is "<<sizeof(ptr)<<endl;
     cout<<"size of pointer is : "<<sizeof(p2)<<endl;
+    int num1=5;
+    int a= num1;
+    a++;
+    cout<<num<<endl;
+    int *p=&num1;
+    cout<<num1<<endl;
+    (*p)++;
+    cout<<num1<<endl;
 }
