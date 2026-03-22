@@ -13,8 +13,30 @@ bool isSorted(int arr[] , int size) {
     }
 
 }
+int arrSum(int arr[], int size) {
+    if (size == 0) {
+        return 0;
+    }
+    return arr[0] + arrSum(arr + 1, size - 1);
+}
+
+bool LinearSearch(int arr[],int key, int size) {
+    if (size==0) {
+        return false;
+    }
+    if (arr[0]==key) {
+        return true;
+    }
+    else {
+        bool ans= LinearSearch(arr+1,key,size-1);
+        return ans;
+    }
+}
 int main() {
     int arr[]={1,43,532,7654,9};
     int size=sizeof(arr)/sizeof(arr[0]);
-    cout<<isSorted(arr, size);
+    cout<<isSorted(arr, size)<<endl;
+    cout<<arrSum(arr,size)<<endl;
+    cout<<LinearSearch(arr,53,size);
+
 }
