@@ -32,11 +32,27 @@ bool LinearSearch(int arr[],int key, int size) {
         return ans;
     }
 }
+bool BinarySearch(int arr[], int key, int s, int e) {
+    int mid=s+(e-s)/2;
+    if (s>e) {
+        return false;
+    }
+    if (arr[mid]==key) {
+        return true;
+    }
+    else if (arr[mid]>key) {
+        return BinarySearch(arr, key, s,mid-1);
+    }
+    else {
+        return BinarySearch(arr,key,mid+1,e);
+    }
+}
 int main() {
-    int arr[]={1,43,532,7654,9};
+    int arr[]={1,43,532,7654,23456};
     int size=sizeof(arr)/sizeof(arr[0]);
     cout<<isSorted(arr, size)<<endl;
     cout<<arrSum(arr,size)<<endl;
-    cout<<LinearSearch(arr,53,size);
-
+    cout<<LinearSearch(arr,53,size)<<endl;
+    cout<<"binarySearch"<<endl;
+    cout<<BinarySearch(arr,23456,0,5)<<endl;
 }
