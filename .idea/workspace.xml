@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d060466b-1dd0-417f-acd2-b46c545d0515" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="XUKUb9rP" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FjDPQihyvyPsfTofv5KMuAvo1q" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Array1.cpp.executor": "Run",
+    "C/C++ File.Array2.cpp.executor": "Run",
+    "C/C++ File.Array3.cpp.executor": "Run",
+    "C/C++ File.Array4.cpp.executor": "Run",
+    "C/C++ File.Binary1.cpp.executor": "Run",
+    "C/C++ File.Bitwise.cpp.executor": "Run",
+    "C/C++ File.Bitwise1.cpp.executor": "Run",
+    "C/C++ File.Bitwise2.cpp.executor": "Run",
+    "C/C++ File.Bitwise3.cpp.executor": "Run",
+    "C/C++ File.Bitwise4.cpp.executor": "Run",
+    "C/C++ File.Bitwise5.cpp.executor": "Run",
+    "C/C++ File.Pattern1.cpp (1).executor": "Run",
+    "C/C++ File.Pattern1.cpp.executor": "Run",
+    "C/C++ File.Pattern10.cpp.executor": "Run",
+    "C/C++ File.Pattern11.cpp.executor": "Run",
+    "C/C++ File.Pattern2.cpp.executor": "Run",
+    "C/C++ File.Pattern3.cpp.executor": "Run",
+    "C/C++ File.Pattern4.cpp.executor": "Run",
+    "C/C++ File.Pattern5.cpp.executor": "Run",
+    "C/C++ File.Pattern6.cpp.executor": "Run",
+    "C/C++ File.Pattern7.cpp.executor": "Run",
+    "C/C++ File.Pattern8.cpp.executor": "Run",
+    "C/C++ File.Pattern9.cpp.executor": "Run",
+    "C/C++ File.Vector1.cpp.executor": "Run",
+    "C/C++ File.Vector2.cpp.executor": "Run",
+    "C/C++ File.binary1.cpp.executor": "Run",
+    "C/C++ File.binary2.cpp.executor": "Run",
+    "C/C++ File.binary6.cpp.executor": "Run",
+    "C/C++ File.factorial.cpp.executor": "Run",
+    "C/C++ File.function1.cpp.executor": "Run",
+    "C/C++ File.function2.cpp.executor": "Run",
+    "C/C++ File.function3.cpp.executor": "Run",
+    "C/C++ File.sort2.cpp.executor": "Run",
+    "C/C++ File.switch1.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/gjain/CLionProjects/untitled/main.cpp",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gjain\CLionProjects\untitled\DsaLearning\Patterns" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.Vector2.cpp">
+    <configuration name="Array2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Array2.cpp" CONFIG_NAME="Array2.cpp">
+      <option name="sourceFile" value="DsaLearning\Arrays\Array2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Array3.cpp" CONFIG_NAME="Array3.cpp">
+      <option name="sourceFile" value="DsaLearning\Arrays\Array3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Array4.cpp" CONFIG_NAME="Array4.cpp">
+      <option name="sourceFile" value="DsaLearning\Arrays\Array4.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Vector1.cpp" CONFIG_NAME="Vector1.cpp">
+      <option name="sourceFile" value="DsaLearning\Vector\Vector1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Vector2.cpp" CONFIG_NAME="Vector2.cpp">
+      <option name="sourceFile" value="DsaLearning\Vector\Vector2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Vector2.cpp" />
+        <item itemvalue="C/C++ File.Vector1.cpp" />
+        <item itemvalue="C/C++ File.Array4.cpp" />
+        <item itemvalue="C/C++ File.Array3.cpp" />
+        <item itemvalue="C/C++ File.Array2.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d060466b-1dd0-417f-acd2-b46c545d0515" name="Changes" comment="" />
+      <created>1782579564918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782579564918</updated>
+      <workItem from="1782579570175" duration="3799000" />
+      <workItem from="1782666295404" duration="3705000" />
+      <workItem from="1783568809895" duration="4205000" />
+      <workItem from="1783654820479" duration="3064000" />
+      <workItem from="1783829184315" duration="2204000" />
+      <workItem from="1784103452463" duration="3929000" />
+      <workItem from="1784133505171" duration="3364000" />
+      <workItem from="1784277252425" duration="704000" />
+      <workItem from="1785169665099" duration="1966000" />
+      <workItem from="1785223559704" duration="5162000" />
+      <workItem from="1785254749855" duration="4747000" />
+      <workItem from="1785298379676" duration="1637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../DsaLearning/main.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
